@@ -38,3 +38,21 @@ Success! Project initialization completed.
 You may now add components.
 ```
 
+## 01 Project Setup - Part 3
+
+```
+$ npx shadcn@2.1.0 add
+? Which components would you like to add? › Space to select. A to toggle all. Enter to submit. 
+◉   accordion
+◉   alert
+◉   alert-dialog
+◉   aspect-ratio
+◉   avatar
+◉   badge
+◉   breadcrumb
+◉   button
+◉   calendar
+◉ ↓ card
+```
+
+
