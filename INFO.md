@@ -55,4 +55,17 @@ $ npx shadcn@2.1.0 add
 ◉ ↓ card
 ```
 
+## 01 Project Setup - Part 4
+
+globals.css copied from repository
+[https://github.com/kliton-yt/scrape-flow-assets/blob/main/globals.css]
+
+
+```
+$ npm i next-themes
+```
+
+[https://ui.shadcn.com/docs/dark-mode/next]
+
+Current: 24:42
 
