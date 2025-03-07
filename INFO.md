@@ -69,3 +69,11 @@ $ npm i next-themes
 
 Current: 24:42
 
+## 01 Project Setup - Part 5
+
+```
+not-found-tsx created
+```
+
+Current: 27:24
+
