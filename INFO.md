@@ -77,3 +77,12 @@ not-found-tsx created
 
 Current: 27:24
 
+## 01 Project Setup - Part 6
+
+```
+Make sidebar visible on smaller screens
+```
+
+Current: 31:15
+
+
